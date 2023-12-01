@@ -1,0 +1,5 @@
+D:/DH/Lumi/LabROBI/ROBI_BEVA_V1.0(1)/ROBI_BEVA_V1.0/SDK_ROBI_STM32F0_1.0.0/shared/Middle/motor/motor.c:56:1:MotorControl_Init	8	static
+D:/DH/Lumi/LabROBI/ROBI_BEVA_V1.0(1)/ROBI_BEVA_V1.0/SDK_ROBI_STM32F0_1.0.0/shared/Middle/motor/motor.c:70:6:MR_GPIO_Config	56	static
+D:/DH/Lumi/LabROBI/ROBI_BEVA_V1.0(1)/ROBI_BEVA_V1.0/SDK_ROBI_STM32F0_1.0.0/shared/Middle/motor/motor.c:135:13:ML_GPIO_Config	56	static
+D:/DH/Lumi/LabROBI/ROBI_BEVA_V1.0(1)/ROBI_BEVA_V1.0/SDK_ROBI_STM32F0_1.0.0/shared/Middle/motor/motor.c:197:6:MotorControl_ForwardRotating	24	static
+D:/DH/Lumi/LabROBI/ROBI_BEVA_V1.0(1)/ROBI_BEVA_V1.0/SDK_ROBI_STM32F0_1.0.0/shared/Middle/motor/motor.c:230:6:MotorControl_ReverseRotating	24	static
